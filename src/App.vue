@@ -6,6 +6,4 @@ import router from './router';
   <router-view></router-view>
 </template>
 
-<style scoped>
 
-</style>
